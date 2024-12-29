@@ -70,10 +70,10 @@ For more information and examples, visit the [Diagrams GitHub Repository](https:
 Here are some example diagrams generated using the **Diagrams** library:
 
 #### Simple Serverless Architecture
-![Serverless Architecture](serverless_architecture.png)
+![Serverless Architecture](Aws-Diagrams/serverless_architecture.png)
 
 #### Complex AWS Architecture
-![Complex AWS Architecture](complex_aws_architecture.png)
+![Complex AWS Architecture](Aws-Diagrams/complex_aws_architecture.png)
 - **Python 3**: Used for writing the diagram generation script.
 - **Diagrams Library**: A Python library for creating visually appealing cloud architecture diagrams.
 - **AWS Services**: Visualize services such as Lambda, S3, and DynamoDB in your serverless architecture.
