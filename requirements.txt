@@ -1,0 +1,4 @@
+diagrams
+boto3
+requests
+graphviz

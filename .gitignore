@@ -1,0 +1,43 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+venv/
+myvenv/
+env/
+ENV/
+*.egg-info/
+*.eggs/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.idea/
+
+# Logs
+*.log
+
+# Other Files
+*.bak
+*.swp
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python Wheel files
+*.whl
+
+# Python bytecode files
+*.pyc
+*.pyo
