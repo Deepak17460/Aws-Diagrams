@@ -12,8 +12,8 @@ Follow the instructions below to set up your environment and generate diagrams f
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/serverless-aws-diagrams.git
-cd serverless-aws-diagrams
+git clone https://github.com/Deepak17460/Aws-Diagrams.git
+cd Aws-Diagrams
 ```
 ```bash
 git clone https://github.com/mingrammer/diagrams.git
